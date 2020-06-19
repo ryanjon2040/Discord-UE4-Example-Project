@@ -1,0 +1,4 @@
+[submodule "Plugins/DiscordUE4"]
+	path = Plugins/DiscordUE4
+	url = https://github.com/ryanjon2040/Discord-UE4
+	branch = master
